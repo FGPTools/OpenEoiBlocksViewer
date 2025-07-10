@@ -32,7 +32,7 @@
   {
     "name": "Anna Burke",
     "link": "https://tcsdeveloper-fusionbds.zohobookings.com/#/4637615000001280134",
-    "active": false
+    "active": true
   },
   {
     "name": "Elinor Dolan",
@@ -219,8 +219,5 @@
     "link": "https://tcsdeveloper-fusionbds.zohobookings.com/#/4637615000012468200",
     "active": true
   },
-  {
-    "name": "random_filler",
-    "active": false
-  }
+  
 ]
